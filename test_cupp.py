@@ -44,12 +44,13 @@ class TestCupp(unittest.TestCase):
 
     def test_generate_wordlist_from_profile(self):
         profile = {
-            "name": "владимир",
-            "surname": "путин",
-            "nick": "putin",
-            "birthdate": "07101952",
-            "wife": "людмила",
-            "wifen": "ljudmila",
+            "name":its_ prajapat_girl_1234 "",
+            "surname": its_ prajapat_girl_1234
+            "nick": "its_ prajapat_girl_1234
+            "birthdate":18/09/2010 "
+            "wife": "",its_ prajapat_girl_1234
+            "wifen": "
+            ,
             "wifeb": "06011958",
             "kid": "екатерина",
             "kidn": "katerina",
